@@ -1,4 +1,4 @@
-# SALES-ANALYTICAKL-BREAKDOWN
+# SALES-ANALYTICAL-BREAKDOWN
 ### OVERALL BUSINESS ANALYSIS
 
 #### OVERVIEW
@@ -17,7 +17,10 @@ These were done to ensure the integrity and quality of the data were kept, with 
 - - Revenue generated
 
 #### ANALYSIS TOOL
+Using Microsoft Excel for data cleaning complemented by Power BI in modelling, and visualisation, I built an interactive dashboard to uncover the company’s overall business functionality and progress.
+
 Microsoft Excel 2019 [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office)
+
 Power BI
 
 #### EXPLORATORY DATA ANALYSIS
@@ -30,17 +33,15 @@ By employing the use of pivot tables and calculated columns, I was able to answe
 - What is the Peak sales period?
 - In which month of the fiscal year was there a dip in generated revenue?
 
-Using Microsoft Excel for data cleaning complemented by Power BI in modelling, and visualisation, I built an interactive dashboard to uncover the company’s overall business functionality and progress.
 
-###RESULTS
+### PERFORMANCE HIGHLIGHTS  
 
-Performance Highlights
+
 - Total Sales: $10.03 million — remarkably up 21.7% from last year.
 
 - Total Profit: $35.29K — shows a staggering 94.6% increase in the most recent year compared to the previous, indicating improved cost efficiency.
 
 - Overall Profit Margin: 0.35% — still relatively low, suggesting room for better pricing or operational optimisation, cost control, and high-margin product prioritisation.
-
 
 - Customers & Sales Trends
 92 active customers, with the top 5 (led by Diego Freyre and Valerie Nelson) driving most of the revenue. I suggest the need to diversify the customer base.
