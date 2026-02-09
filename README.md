@@ -1,41 +1,35 @@
 # SALES-ANALYTICAL-BREAKDOWN
-### OVERALL BUSINESS ANALYSIS
+### OVERALL BUSINESS ANALYSIS - DESCRIPTIVE ANALYSIS
 
 #### OVERVIEW
-This analysis provided insights into the general overview/performance of an e-commerce enterprice in a fiscal year, revealing seasonal trends all year round and identifying revenue patterns. By analyzing various parameters based on the data received, I provided recommendations on idles times for promotion and restocking, and as well answered the question which is whether there were any cyclical behaviors observed in the sales.
-
-#### DATA SOURCE
-The primary source of data used for this work is the csv file shared to us in the “Queen_Arit_datachallenge” via Nas.io.
+This analysis provided insights into the general performance of an e-commerce enterprice in three fiscal year (2003-2005), revealing seasonal trends all year round and identifying revenue patterns, by analyzing various metrics of the business: Total sales, total profit, sales YoY, Profit YoY, Profit margin, Sales over time by month, orders by deal size, etc.
 
 #### DATA CLEANING AND PREPARATION
 In the initial phase, I performed the following processes:
 - Data loading and inspection
-- Handling missing data in cells by removing all duplicates in the dataset, splitting date and time column
-These were done to ensure the integrity and quality of the data were kept, with the rows being 536,641 rows in total.
-- I also created some calculated columns to facilitate further analysis including:
+- Handled missing data in the cells by removing all duplicates in the dataset, formatting accurately the date column.
+These were done to ensure the integrity and quality of the data were kept.
+- I created the date table indicating the year , month, and quarter of each transaction; and some calculated columns to facilitate clearer analysis including:
 - - Quarter of the year
-- - Revenue generated
+- - Total sales
+- - Profit Margin
+- - Sales and profit last year
+- - sales and profit YoY
 
 #### ANALYSIS TOOL
-Using Microsoft Excel for data cleaning complemented by Power BI in modelling, and visualisation, I built an interactive dashboard to uncover the company’s overall business functionality and progress.
+Using Microsoft Excel for data cleaning and Power BI for data modelling and visualisation, I built an interactive dashboard to uncover the company’s overall business functionality and track business progress.
 
 Microsoft Excel 2019 [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office)
 
 Power BI
 
 #### EXPLORATORY DATA ANALYSIS
-By employing the use of pivot tables and calculated columns, I was able to answer the following:
-- What are the total revenue generated per month?
-- What are the total revenue generated per annual quarter?
-- What is Total sales of the year?
-- What is the Annual revenue generated in the year 2011?
-- Which country is the Highest selling point?
-- What is the Peak sales period?
-- In which month of the fiscal year was there a dip in generated revenue?
 
+
+
+By employing the use of pivot tables and calculated columns, I was able to answer certain questions which which i drew the following insights:
 
 ### PERFORMANCE HIGHLIGHTS  
-
 
 - Total Sales: $10.03 million — remarkably up 21.7% from last year.
 
