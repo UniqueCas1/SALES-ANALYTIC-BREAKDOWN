@@ -27,11 +27,10 @@ Power BI
 
 <img width="1366" height="768" alt="Sis Adaugo Projectwork pdf - Personal - Microsoft​ Edge 01_11_2025 16_33_25" src="https://github.com/user-attachments/assets/6826ae6a-ca13-40cc-b4c4-40b3323b99d1" />
 
-By employing the use of pivot tables and calculated columns, I was able to answer certain questions which which i drew the following insights:
+By employing the use of pivot tables and calculated columns, I was able to answer the following questions which which i drew the following insights:
 
 ### PERFORMANCE HIGHLIGHTS  
 
-![Uploading Sis Adaugo Projectwork.pdf - Personal - Microsoft​ Edge 01_11_2025 16_33_25.png…]().
 
 
 - Total Sales: $10.03 million — remarkably up 21.7% from last year.
